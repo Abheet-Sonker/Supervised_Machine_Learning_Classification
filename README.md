@@ -19,4 +19,4 @@ Logistic Regression
 K-Nearest Neighbors
 Decision Tree
 
-Best Model Accuracy: 93.33
+Best Model Accuracy:0.92
