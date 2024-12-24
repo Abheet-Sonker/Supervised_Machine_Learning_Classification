@@ -16,7 +16,8 @@ seaborn
 scikit-learn
 **Algorithms**
 Logistic Regression
-K-Nearest Neighbors
+SVM
 Decision Tree
+Random forest
 
-Best Model Accuracy:0.92
+Best Model Accuracy:0.97
