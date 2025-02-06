@@ -1,23 +1,37 @@
-**Iris dataset analysis - Classification**
+# Classification Model on Iris Dataset
 
-The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant. One class is linearly separable from the other 2; the latter are NOT linearly separable from each other.
+**Overview**
 
-Attribute Information:-
+This repository contains a Classification Model built on the Iris Dataset. The model is designed to classify iris flowers into different species based on petal and sepal measurements using machine learning techniques.
 
-    sepal length in cm
-    sepal width in cm
-    petal length in cm
-    petal width in cm
-    species: -- Iris Setosa -- Iris Versicolour -- Iris Virginica
-**Libraries**
-pandas
-matplotlib
-seaborn
-scikit-learn
-**Algorithms**
-Logistic Regression
-SVM
-Decision Tree
-Random forest
+**Features**
 
-Best Model Accuracy:0.97
+Utilizes Supervised Learning for classification.
+
+Implements algorithms such as Decision Tree, Random Forest, and Support Vector Machine (SVM).
+
+Includes data preprocessing steps like feature scaling and train-test splitting.
+
+Provides model evaluation using accuracy, confusion matrix, and classification reports
+
+**Dataset**
+
+The Iris Dataset consists of three flower species and includes the following features:
+
+Sepal Length
+
+Sepal Width
+
+Petal Length
+
+Petal Width
+
+**Model Performance**
+
+The classification performance is evaluated using:
+
+Accuracy Score
+
+Confusion Matrix
+
+Precision, Recall, and F1-score
